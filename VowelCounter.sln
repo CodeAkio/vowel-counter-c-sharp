@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VowelCounter.Domain", "VowelCounter.Domain\VowelCounter.Domain.csproj", "{EFE2C298-1B5A-4F5B-87B7-6BCB25555F1F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VowelCounter.Tests", "VowelCounter.Test\VowelCounter.Tests.csproj", "{9B732F58-9E38-4E45-97D5-954FD50E3169}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFE2C298-1B5A-4F5B-87B7-6BCB25555F1F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFE2C298-1B5A-4F5B-87B7-6BCB25555F1F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFE2C298-1B5A-4F5B-87B7-6BCB25555F1F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFE2C298-1B5A-4F5B-87B7-6BCB25555F1F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9B732F58-9E38-4E45-97D5-954FD50E3169}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9B732F58-9E38-4E45-97D5-954FD50E3169}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9B732F58-9E38-4E45-97D5-954FD50E3169}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9B732F58-9E38-4E45-97D5-954FD50E3169}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {25C35292-BB11-42D6-A468-3D56CC1EAD5C}
+	EndGlobalSection
+EndGlobal
